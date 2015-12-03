@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaBitPacker", "DeltaBitPacker\DeltaBitPacker.csproj", "{3CEF9CC5-E4A6-4A7F-8322-A5BCA7624595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaBitPacker.Tests", "DeltaBitPacker.Tests\DeltaBitPacker.Tests.csproj", "{DA7A236E-8103-4D79-AD21-C29F0F3CD6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CEF9CC5-E4A6-4A7F-8322-A5BCA7624595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEF9CC5-E4A6-4A7F-8322-A5BCA7624595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEF9CC5-E4A6-4A7F-8322-A5BCA7624595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEF9CC5-E4A6-4A7F-8322-A5BCA7624595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7A236E-8103-4D79-AD21-C29F0F3CD6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7A236E-8103-4D79-AD21-C29F0F3CD6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7A236E-8103-4D79-AD21-C29F0F3CD6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7A236E-8103-4D79-AD21-C29F0F3CD6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
